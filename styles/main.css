@@ -1,0 +1,44 @@
+/*
+	Look MA! I'm a CSS comment
+	I'm multilined and shit
+*/
+/*
+	GUTS of a CSS "search query"
+
+	selectorName {
+		propertyName: propertyValue;
+	}
+
+	ex:
+
+	section {
+		background-color: red;
+	}
+*/
+
+
+.alert-important {
+	color: #f00;
+	text-decoration: underline;
+	text-transform: uppercase;
+	display: block;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center; /* only works for block elements */
+}
+
+.no-underline {
+	text-decoration: none;
+}
+
+a {
+    color: #0f0;
+    text-transform: lowercase;
+    background-color: black;
+} /* this is an example of a tagName selector */
+
+
+
+
+
+
